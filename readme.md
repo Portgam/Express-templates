@@ -1,18 +1,60 @@
-# Express.js server template
-## How to use
+# Apuntes de Markdown
 
-Hay 2 opciones de usar CORS
+## Listas
 
-npm cors o
+### Ordenadas
 
-la configuración CORS en la carpeta cors
+1. Obj 1
 
-run 
-```
-npm install
-```
+2. Obj 1
 
-## Topic 1 {#H1}
-Next [Topic 2](#H2)
+    2.1. Obj 1
+    
+    2.2. Obj 1
+    
+    2.3. Obj 1
 
-## Topic 2 {#H2}
+3. Obj 1
+
+4. Obj 1
+
+5. Obj 1
+
+6. Obj 1
+
+### Sin orden 
+
+
++ OBJ
+
+    - SUB OBJ
+
+        - SUB SUB OBJ
+
++ OBJ
+
+    - SUB OBJ
+
+        - SUB SUB OBJ
+
++ OBJ
+
+    - SUB OBJ
+
+        - SUB SUB OBJ
+
++ OBJ
+
+    - SUB OBJ
+
+        - SUB SUB OBJ
+
+---
+
+---
+
+:zzz:
+
+Link to [:zzz:](#apuntes-de-markdown)
+
+
